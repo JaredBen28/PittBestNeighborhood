@@ -1,6 +1,6 @@
 Team Panthers 
 
-Project by Jackson Lustina, Jared 
+Project by Jackson Lustina, Jared ，AoxueDing
 
 The resourses we used were:
 
