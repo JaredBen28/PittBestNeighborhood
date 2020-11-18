@@ -1,6 +1,6 @@
 Team Panthers 
 
-Project by Jackson Lustina, Jared ，AoxueDing
+Project by Jackson Lustina(JCL109@pitt.edu), Jared Glickfield(jbg53@pitt.edu)，AoxueDing(AOD6@pitt.edu)
 
 The resourses we used were:
 
@@ -20,5 +20,6 @@ Jackson Lustina's Notebook: PollingLocations.ipynb
 
 Aoxue Ding's Notebook: Final Project.ipynb
 
+We concluded that polling locations and COVID cases are more important than park locations. Our metrics put COVID cases at .5, polling at .3, and parks at .2. The global pandemic gets the highest ranking since it affects every person on a daily basis. Given the current election and political climate, polling is an important metric to take into account. While parks are safe and enjoyable, they are not as important as the COVID data and polling locations. 
 
 Go Panthers!
