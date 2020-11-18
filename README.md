@@ -1,6 +1,6 @@
 Team Panthers 
 
-Project by Jackson Lustina, Jared ，AoxueDing
+Project by Jackson Lustina(JCL109@pitt.edu), Jared Glickfield(jbg53@pitt.edu)，AoxueDing(AOD6@pitt.edu)
 
 The resourses we used were:
 
