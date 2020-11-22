@@ -20,6 +20,6 @@ Jackson Lustina's Notebook: PollingLocations.ipynb
 
 Aoxue Ding's Notebook: Final Project.ipynb
 
-We concluded that polling locations and COVID cases are more important than park locations. Our metrics put COVID cases at .5, polling at .2, and parks at .3. The global pandemic gets the highest ranking since it affects every person on a daily basis. Given the current election and political climate, polling is an important metric to take into account. While parks are safe and enjoyable, they are not as important as the COVID data and polling locations. 
+We concluded that polling locations and COVID cases are more important than park locations. Our metrics put COVID cases at .5, polling at .2, and parks at .3. The global pandemic gets the highest ranking since it affects every person on a daily basis. Given the current election and political climate, polling is an important metric to take into account. While parks are safe and enjoyable, they are not as important as the COVID data and polling locations. Finally Point Breeze is the overall best neighborhood.
 
 Go Panthers!
